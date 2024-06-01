@@ -1,0 +1,5 @@
+train: archive/train/images
+val: archive/valid/images
+
+nc: 1
+names: ['Person']
