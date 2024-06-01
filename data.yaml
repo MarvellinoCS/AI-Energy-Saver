@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/AI PKM/archive/train/images
+val: /content/drive/MyDrive/AI PKM/archive/val/images
+
+nc: 1
+names: ['Person']
