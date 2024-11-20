@@ -1,4 +1,4 @@
-# AI Energy Saver
+# AI Energy Saver (Smarty)
 
 An AI-powered energy-saving system that automatically turns appliances on or off based on human presence in a room. This project uses an ESP32 microcontroller and computer vision techniques to detect people, making it ideal for reducing energy wastage.
 
